@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931279541669",
+    "project_id": "remainderapp-1397f",
+    "storage_bucket": "remainderapp-1397f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931279541669:android:39c7b34d0fd8adc662444c",
+        "android_client_info": {
+          "package_name": "com.example.api_networking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931279541669-2r3kvpsh8t9cqqrb2h7fu9219oek10lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaXjAZPlsPPlc3QclkjpDOxTJOP6Oiqlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931279541669-2r3kvpsh8t9cqqrb2h7fu9219oek10lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
