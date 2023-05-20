@@ -1,6 +1,6 @@
 // ignore_for_file: unused_import
 
-import 'package:api_networking/homeScreen.dart';
+import 'package:api_networking/events_calendar.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
@@ -22,10 +22,10 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.teal,
       ),
       debugShowCheckedModeBanner: false,
-      home: HomeScreen(),
+      home: EventsCalendar(),
     );
   }
 }
